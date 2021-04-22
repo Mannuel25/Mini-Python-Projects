@@ -4,7 +4,7 @@ def longest_word_in_file():
 	we\'ll be making use of text files only.
 	: return: None
 	"""
-	filename = input('Enter the filename only, the file extension would be added: ')
+	filename = input('\nEnter the filename only, the file extension would be added: ')
 	filename = filename.strip() + '.txt'
 	words_and_their_length = {}
 	try:
