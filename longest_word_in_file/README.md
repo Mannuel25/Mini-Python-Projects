@@ -1,6 +1,6 @@
 # Display longest word in text file
 
-## - [longestWordInFile.py](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/longest_word_in_file/longestWordInFile.py)
+## [longestWordInFile.py](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/longest_word_in_file/longestWordInFile.py)
 
 ## This a program that helps you search and display the longest word in a text file.
 
