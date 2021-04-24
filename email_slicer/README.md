@@ -1,4 +1,4 @@
-# Email Slicer
+# Email Address Slicer
 
 ## [emailSlicer.py](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/email_slicer/emailSlicer.py)
 
