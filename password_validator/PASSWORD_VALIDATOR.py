@@ -2,7 +2,7 @@ import string
 
 def passwordValidator():
     """
-    Valids passwords to match specific rules
+    Validates passwords to match specific rules
     : return: str
     """
     print('\nYour password should: ')
