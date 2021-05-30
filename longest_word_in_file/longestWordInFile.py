@@ -1,7 +1,7 @@
 def longest_word_in_file():
 	"""
 	A program that takes in a filename and displays the longest word(s) in the file,
-	we\'ll be making use of text files only.
+	we'll be making use of text files only.
 	: return: None
 	"""
 	filename = input('\nEnter the filename only, the file extension would be added: ')
