@@ -6,7 +6,7 @@ def display_gameplay():
     : return: None
     """
     print('\nWelcome to Number Guessing Game!')
-    print('In this game you\'ve just 10 trials to guess a number between the range of 1-20')
+    print('In this game you\'ve just 10 trials to guess a number between the range of 1-10')
     print('Note: enter \'exit\' to end game')
 
 def startGame():
