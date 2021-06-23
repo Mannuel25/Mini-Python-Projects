@@ -1,5 +1,5 @@
 import random
-# random module is a built-in module to generate the pseudo-random variables
+# random module is a built-in module to generate pseudo-random variables
 
 def display_gameplay():
     """
