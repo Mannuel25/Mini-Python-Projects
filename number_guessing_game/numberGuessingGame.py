@@ -37,8 +37,8 @@ def game():
     # assign the number of trials the user has to a variable
     number_of_trials = 7
     while play_game == 'YES' or play_game == 'Y':
-        # make a list that contains the
-        # accepted number a user can guess
+        # make a list that contains all the
+        # numbers a user can guess
         ACCEPTED_NUMBER_PICKS = [str(i) for i in range(1,11)]
         # get user's number
         user_input = input('\nGuess a number between the range of 1-10: ').strip().upper()
