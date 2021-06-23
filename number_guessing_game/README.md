@@ -14,7 +14,7 @@ Running the script is pretty easy, open a terminal in the folder where your scri
 
 # Sample use of the script
 
-[!](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/number_guessing_game/script_screenshot.png)
+![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/number_guessing_game/script_screenshot.png)
 
 
 # Author's name
