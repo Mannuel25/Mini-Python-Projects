@@ -4,7 +4,7 @@ This is a game that allows you guess a number between the range of 1- 10 in just
 
 # Prerequisites
 
-It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python
+It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
 
 # How to run the script
 
