@@ -15,7 +15,3 @@ To run the script, open a terminal in the folder where your script is located an
 # Sample use of the script
 
 ![alt text](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/longest_word_in_file/script_screenshot.png)
-
-
-## [longestWordInFile.py](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/longest_word_in_file/longestWordInFile.py)
-
