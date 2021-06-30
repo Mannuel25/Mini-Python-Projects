@@ -1,7 +1,25 @@
 # Password Generator
 
-## This program generates a secure random password for you.
+This program generates a secure random password. You'll be required to enter a few details about what your password should contain:
 
-## For the first program [generate_password.py](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/passwordGenerator/generate_password.py) you'll be required to enter the length of alphabets(this includes upper and lower case), the length of special characters and the length of digits you want in your password.
+- The length of alphabets (this includes upper and lower case) 
+- The length of special characters 
+- The length of digits.
 
-## While for the second program [my_password_generator.py](https://github.com/Mannuel25/Mini-Python-Projects/blob/master/passwordGenerator/my_password_generator.py) you'll be required to enter the length of the password  you want only.
+# Prerequisites
+
+It requires no prerequisites, you only need to run the script. If you don't have Python installed, you can visit [here](https://www.python.org/downloads/) to download Python.
+
+# How to run the script
+
+Running the script is pretty easy, open a terminal in the folder where your script is located and run the following command :
+
+`python generate_password.py`
+
+# Sample use of the script
+
+![alt text](https://github.com/Mannuel25/Mini-Python-projects/blob/master/all-python-codes/password-generator/password-generator-2/screenshot_1.png)
+
+![alt text](https://github.com/Mannuel25/Mini-Python-projects/blob/master/all-python-codes/password-generator/password-generator-2/screenshot_2.png)
+
+![alt text](https://github.com/Mannuel25/Mini-Python-projects/blob/master/all-python-codes/password-generator/password-generator-2/screenshot_3.png)
